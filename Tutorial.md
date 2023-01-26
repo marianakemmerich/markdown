@@ -1,5 +1,7 @@
 # markdown assignment
 
+practicing the markdown commands i've learned so far
+
 <!--- headings -->
 headers:
 
