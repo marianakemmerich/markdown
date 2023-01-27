@@ -1,6 +1,6 @@
 # markdown assignment
 
-practicing markdown commands i've learned so far
+markdown commands i've learned so far
 
 <!--- headings -->
 headers:
@@ -99,7 +99,7 @@ static String replace(String word){
 
 ---
 <!--- images -->
-image of a kitten:
+image:
 
 ![](https://pbs.twimg.com/media/FlLBN6zaUAIs4Lw?format=jpg&name=large)
 
