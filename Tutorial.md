@@ -1,6 +1,6 @@
 # markdown assignment
 
-practicing the markdown commands i've learned so far
+practicing markdown commands i've learned so far
 
 <!--- headings -->
 headers:
@@ -46,7 +46,7 @@ the following text is a quote from "concrete jungle", a song of the band *bad om
 <!--- list -->
 regular list:
 
-- item 1 using hyphen sign
+- item 1 using a hyphen sign
 * item 2 using an asterisk
 + item 3 using a plus sign
 
@@ -80,7 +80,7 @@ tasklist:
 <!--- table -->
 table:
 
-| STANDARD TEXT X | STANDARD TEXT Y |
+| DEFAULT TEXT XX | DEFAULT TEXT YY |
 |-----------------|-----------------|
 | aaaaaaaaaaaaaaa | bbbbbbbbbbbbbbb | 
 | ccccccccccccccc | ddddddddddddddd |
@@ -99,7 +99,7 @@ static String replace(String word){
 
 ---
 <!--- images -->
-a cute image of a kitten:
+image of a kitten:
 
 ![](https://pbs.twimg.com/media/FlLBN6zaUAIs4Lw?format=jpg&name=large)
 
